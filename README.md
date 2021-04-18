@@ -38,4 +38,19 @@ E:/18029743 Aayush Suryabanshi/RSS/frontend/src/screens/CartScreen.js:35
   
   mero main problem bhaneko chai tei first ko order place garne ho 
   
+  
+  ---------------------------------------------------------------------------------------
+  
+  ani yo MERN stack web ma chaliraxa ..... yei same code use garera mobile app banauna mildaina ?? like android studio ma chalne garikana
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
