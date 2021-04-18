@@ -44,6 +44,13 @@ E:/18029743 Aayush Suryabanshi/RSS/frontend/src/screens/CartScreen.js:35
   ani yo MERN stack web ma chaliraxa ..... yei same code use garera mobile app banauna mildaina ?? like android studio ma chalne garikana
   
   
+  ----------------------------------------------------------------------------------------
+  
+  mongodb+srv://aayush1234:aayush1234@rajshreeshringar.rnlcx.mongodb.net/shop?authSource=admin@replicaSet=atlas=kjbjdk-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true
+  
+  yo database ho incase chaiyo bhane tapailai
+  
+  
   
   
   
